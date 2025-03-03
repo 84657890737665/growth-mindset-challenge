@@ -10,7 +10,7 @@ from io import BytesIO
 # Set up Our Application 
 
     # Title
-st.title('📀Neatiformix - Makes Data Neat and Transform✨!')
+st.title('Neatiformix - Makes Data Neat and Transform✨!')
 
     # Sidebar with options
 option = st.sidebar.selectbox('Choose an option', ['Load Data', 'Clean Data', 'Transform Data'])
